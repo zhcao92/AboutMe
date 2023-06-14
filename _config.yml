@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhong Cao"
-  avatar           : "Bio.png"
+  avatar           : "images/Bio.png"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
