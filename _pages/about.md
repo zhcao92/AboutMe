@@ -43,4 +43,4 @@ Contact
 ======
 Email: caozhong@tsinghua.edu.cn
 
-![doge](images/doge.jpg =200x)
+<img src="images/doge.jpg" width="200"/>
