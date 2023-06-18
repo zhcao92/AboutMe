@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ro-Ai-Car (RAC)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhong Cao"
-  avatar           : "profile.png"
+  avatar           : "https://github.com/zhcao92/zhongcao.github.io/blob/master/images/Bio.png"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
