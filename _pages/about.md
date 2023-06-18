@@ -29,7 +29,7 @@ Highlights
 
 1- Continuous improvement of self-driving cars in corner cases [pdf](files/DCARL.pdf).
 ------
-<iframe src="//player.bilibili.com/player.html?aid=229917419&bvid=BV1vh411N7XQ&cid=1167584497&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=600 width=800> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=229917419&bvid=BV1vh411N7XQ&cid=1167584497&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=500 width=800> </iframe>
 
 
 2- DEMOs for 2022 Beijing Winter Olympic Games
