@@ -39,14 +39,3 @@ Highlights
 3- Confidence aware reinforcement learning for self-driving cars [pdf](files/CARL.pdf)
 ------
 <iframe src="//player.bilibili.com/player.html?aid=672384940&bvid=BV13U4y1Y7oB&cid=321411173&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=400 width=700> </iframe>
-
-
-Contact
-======
-Please contact me by email: caozhong@tsinghua.edu.cn
-
-Leeshao Kee S&T Building A639
-
-Tsinghua Univserity
-
-Beijing, China, 100084
