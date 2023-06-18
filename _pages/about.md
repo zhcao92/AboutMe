@@ -1,6 +1,6 @@
 ---
 permalink: /
-% title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,9 +18,9 @@ I also worked as a research assistant in [Mcity](https://mcity.umich.edu) at the
 Recent News
 ======
 - My paper on continually improved self-driving cars was published in Nature Machine Intelligence on March, 2023. 
-- I received 
-- I received
-- My project worked in Olympic Games
+- I joined in Young Elite Scientists Sponsorship Program by CAST in 2022.
+- I was nominated as the Outstanding Ph.D. dissertation Award of the China Society of Automotive Engineers in 2021.
+- My project was evaluated in 2022 Beijing Winter Olympic Games.
 
 Highlights
 ======
