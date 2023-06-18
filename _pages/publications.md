@@ -9,7 +9,7 @@ author_profile: true
 
 2023
 ------
-1. Cao Z., Jiang K., Zhou W., Xu S., Peng H., Yang D., **Continuous Improvement of Self-Driving Cars using Dynamic Confidence-Aware Reinforcement Learning**, Nature Machine Intelligence, 2023 [pdf](file/DCARL.pdf)
+1. Cao Z., Jiang K., Zhou W., Xu S., Peng H., Yang D., **Continuous Improvement of Self-Driving Cars using Dynamic Confidence-Aware Reinforcement Learning**, Nature Machine Intelligence, 2023 [[pdf](file/DCARL.pdf)]
 2. Zhou W., Cao Z.*, et al., Identify, Estimate and Bound the Uncertainty of Reinforcement Learning for Autonomous Driving, IEEE Transactions on Intelligent Transportation Systems, 2023
 3. Jiao X., Chen J., Jiang K., Cao Z., Yang D., Autonomous Driving Risk Assessment with Boundary-based Environment Model, IEEE Transactions on Intelligent Vehicles, 2023
 4. Liu X., Cao Z., et al., Acceleration method for hazardous scenarios generation based on disengagement cases, CICTP,2023 (Accepted)
@@ -27,10 +27,11 @@ author_profile: true
 8. Jiao X., Cao Z., et al., A General Autonomous Driving Planner Adaptive to Scenario Characteristics, IEEE Transactions on Intelligent Transportation Systems, 2022
 9. Xu S., Zidek R, Cao Z, Lu, et al., System and Experiments of Model-Driven Motion Planning and Control for Autonomous Vehicles, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022
 10. Jiao X., Cao Z., et al., Reliable autonomous driving environment model with unified state-extended boundary, IEEE Transactions on Intelligent Transportation Systems, 2022 
+11. Xie C., Cao Z., Long Y., Yang D., Zhao D., Li B., Privacy of Autonomous Vehicles: Risks, Protection Methods, and Future Directions [[arXiv](https://arxiv.org/pdf/2209.04022.pdf)]
 
 2021
 ------
-1. Cao Z, et al., **Confidence-Aware Reinforcement Learning for Self-driving Cars**, IEEE Transactions on Intelligent Transportation Systems, 2021, [pdf](file/CARL.pdf)
+1. Cao Z, et al., **Confidence-Aware Reinforcement Learning for Self-driving Cars**, IEEE Transactions on Intelligent Transportation Systems, 2021 [[pdf](file/CARL.pdf)]
 2. Cao Z, et al., LiDAR-based Object Detection Failure Tolerated Autonomous Driving Planning System, IEEE Intelligent Vehicles Symposium (IV)
 3. Deng N., Cao Z. et al. Adapt the Driving Policy to Local Traffic before Entering the New Area, IEEE 24th International Conference on Intelligent Transportation Systems (ITSC), 2021
 4. Deng N, Jiang K., Cao Z, Yang D, et al. Decision-oriented Driving Scenario Recognition based on Unsupervised Learning, The 20th and 21st Joint COTA International Conference of Transportation Professionals, 2021

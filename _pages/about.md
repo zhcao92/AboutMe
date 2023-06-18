@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My passion is to achieve real safe and trustworthy L4 autonomous vehicles, by developing powerful data-driven algorithms.
-Research topics focus on out-of-distribution risk constrains in ML algorithms and practical reinforcement learning or continual learning algoriths for self-driving decision-making.
+My passion is to achieve real safe and trustworthy autonomous vehicles, by developing powerful data-driven algorithms.
+Research topics focus on out-of-distribution risk constrains in ML algorithms, and practical reinforcement learning/continual learning algoriths for self-driving decision-making.
 
 Currently, I am a research scientist in School of Vehicle and Mobility, Tsinghua University.
 I received my B.S. and Ph.D. from Tsinghua University in 2015 and 2020, respectively. 
@@ -20,7 +20,7 @@ Recent News
 - My paper on continually improved self-driving cars was published in Nature Machine Intelligence on March, 2023. 
 - I joined in Young Elite Scientists Sponsorship Program by CAST in 2022.
 - I was nominated as the Outstanding Ph.D. dissertation Award of the China Society of Automotive Engineers in 2021.
-- My project was evaluated in 2022 Beijing Winter Olympic Games.
+- My project was evaluated in 2022 Beijing Winter Olympic Games. 
 
 Highlights
 ======
@@ -42,3 +42,5 @@ Highlights
 Contact
 ======
 Email: caozhong@tsinghua.edu.cn
+
+![doge](../images/doge.jpg)
