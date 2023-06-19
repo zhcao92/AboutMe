@@ -6,6 +6,19 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+.video-box {
+  padding-bottom:56.25%;
+  width: 100%;
+  position:relative;
+  }
+.video-box video{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  }
 ---
 
 My passion is to achieve real safe and trustworthy autonomous vehicles, by developing powerful data-driven algorithms.
@@ -27,7 +40,11 @@ Highlights
 
 1- Continuous improvement of self-driving cars in corner cases [pdf](files/DCARL.pdf).
 ------
-<iframe src="//player.bilibili.com/player.html?aid=229917419&bvid=BV1vh411N7XQ&cid=1167584497&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=100% width=100%> </iframe>
+<div class="video-box">
+  <video src="//player.bilibili.com/player.html?aid=229917419&bvid=BV1vh411N7XQ&cid=1167584497&page=1"></video>
+</div>
+
+ <!-- <iframe src="//player.bilibili.com/player.html?aid=229917419&bvid=BV1vh411N7XQ&cid=1167584497&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=400 width=700> </iframe> -->
 
 
 2- DEMOs for 2022 Beijing Winter Olympic Games
