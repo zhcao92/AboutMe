@@ -44,11 +44,13 @@ Highlight Research
 - Published in [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00610-y), featured in over 50 media outlets, including [Renmin News (China)](http://finance.people.com.cn/n1/2023/0227/c1004-32632458.html), [Xinhua News (China)](http://www.xinhuanet.com/info/20230315/f678f6e470b94971823223fdd66327d2/c.html), [Tsinghua University](https://www.tsinghua.edu.cn/info/1182/102099.htm), [AFP News(Japan)](https://www.afpbb.com/articles/-/3456295?act=all), [DeepAI](https://deepai.org/publication/long-tail-prediction-uncertainty-aware-trajectory-planning-for-self-driving-vehicles).
 - Dragomir Anguelov, Chief Scientist at Waymo (Google), listed this work as the first one in five representative solutions for the long-tail problem in autonomous driving.
 
-<div style="width: 80vw; height: 80vh; margin-left: 5vw;">
-  <iframe src="https://player.bilibili.com/player.html?bvid=BV1CNR4YdEJR" 
-          style="width: 100%; height: 100%;" 
-          frameborder="0" allowfullscreen>
-  </iframe>
+<div style="max-width:80vw; margin-left:5vw;">
+  <div style="position: relative; width:100%; padding-bottom: 55.83%; height: 0;">
+    <iframe src="https://player.bilibili.com/player.html?bvid=BV1CNR4YdEJR" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            frameborder="0" allowfullscreen>
+    </iframe>
+  </div>
 </div>
 
 ## 2. Developing Self-driving Cars for 2022 Beijing Winter Olympic Games
@@ -56,11 +58,13 @@ Highlight Research
 - I am the on-board Tech Lead.
 - Featured by [China Youth Daily](https://zqb.cyol.com/html/2020-10/22/nw.D110000zgqnb_20201022_2-09.htm) 
 
-<div style="width: 80vw; height: 80vh; margin-left: 5vw;">
-  <iframe src="https://player.bilibili.com/player.html?bvid=BV1Uy4y1b7pV" 
-          style="width: 100%; height: 100%;" 
-          frameborder="0" allowfullscreen>
-  </iframe>
+<div style="max-width:80vw; margin-left:5vw;">
+  <div style="position: relative; width:100%; padding-bottom: 55.83%; height: 0;">
+    <iframe src="https://player.bilibili.com/player.html?bvid=BV1Uy4y1b7pV" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            frameborder="0" allowfullscreen>
+    </iframe>
+  </div>
 </div>
 
 
