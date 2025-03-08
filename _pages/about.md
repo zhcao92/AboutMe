@@ -77,7 +77,7 @@ Highlight Research
 
 <img src="images/OptimizedLatticePlanner.gif" width="600" style="margin-left: 2vw;" />
 
-# Contact
+Contact
 ======
 Email: zhcao@umich.edu
 
