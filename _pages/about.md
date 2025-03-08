@@ -15,7 +15,7 @@ I am leading the AV safety project in [Mcity](https://mcity.umich.edu), and lead
 
 Welcome to use our developed self-driving planning toolchains, [SPIDER](https://github.com/Thu-ADLab/SPIDER).
 
-My Research Vision: **Next Generation of Autonomous Vehicles Free from CoR (AV 3.0)**.
+My Research Vision: **Next Generation of Autonomous Vehicles, Free from Curse of Rarity (AV 3.0)**.
 
 Welcome any coffee chat in Ann Arbor or discussions on my research topics. 
 
@@ -46,7 +46,7 @@ Highlight Research
 
 <div style="position: relative; padding-bottom: 55.83%; height: 0; overflow: hidden;">
   <iframe src="https://player.bilibili.com/player.html?bvid=BV1CNR4YdEJR" 
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          style="position: absolute; top: 0; left: 0; width: 80%; height: 80%;" 
           frameborder="0" allowfullscreen>
   </iframe>
 </div>
@@ -56,6 +56,13 @@ Highlight Research
 - I am the on-board Tech Lead.
 - Featured by [China Youth Daily](https://zqb.cyol.com/html/2020-10/22/nw.D110000zgqnb_20201022_2-09.htm) 
 
+<div style="position: relative; padding-bottom: 55.83%; height: 0; overflow: hidden;">
+  <iframe src="https://www.bilibili.com/video/BV1Uy4y1b7pV/?vd_source=551b028baade81a39208ede70e7da9f3" 
+          style="position: absolute; top: 0; left: 0; width: 80%; height: 80%;" 
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
 
 ## 3. Self-driving Development Tools
 - Full-stack self-driving platform, [Cloud Learning compatible Autonomous driving Platform (CLAP)](https://github.com/CLAP-Framework/clap).
@@ -64,6 +71,7 @@ Highlight Research
 - Second Place in CARLA Challenge, 2019.
 
 <img src="images/framework.png" width="400"/>
+
 <img src="images/OptimizedLatticePlanner.gif" width="400"/>
 
 # Contact
