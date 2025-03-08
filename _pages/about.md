@@ -58,14 +58,34 @@ Highlight Research
 - I am the on-board Tech Lead.
 - Featured by [China Youth Daily](https://zqb.cyol.com/html/2020-10/22/nw.D110000zgqnb_20201022_2-09.htm) 
 
-<div style="max-width:80vw; margin-left:2vw;">
-  <div style="position: relative; width:100%; padding-bottom: 55.83%; height: 0;">
-    <iframe src="https://player.bilibili.com/player.html?bvid=BV1Uy4y1b7pV" 
+<div id="video-container" style="max-width:80vw; margin-left:2vw;">
+  <div style="position: relative; width:100%; padding-bottom:55.83%; height: 0;">
+    <!-- data-src 属性中添加 autoplay=1 参数，如有需要可加入 muted=1 -->
+    <iframe id="video-iframe" data-src="https://player.bilibili.com/player.html?bvid=BV1Uy4y1b7pV&autoplay=1" 
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
             frameborder="0" allowfullscreen>
     </iframe>
   </div>
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var videoIframe = document.getElementById('video-iframe');
+  var videoContainer = document.getElementById('video-container');
+  
+  var observer = new IntersectionObserver(function(entries, observer) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        // 当容器进入视口后，将 data-src 赋给 src 开始加载视频
+        videoIframe.src = videoIframe.getAttribute('data-src');
+        observer.unobserve(entry.target); // 加载后取消观察
+      }
+    });
+  }, { threshold: 0.5 });
+  
+  observer.observe(videoContainer);
+});
+</script>
 
 
 ## 3. Self-driving Development Tools
