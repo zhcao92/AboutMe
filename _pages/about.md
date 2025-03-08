@@ -44,6 +44,13 @@ Highlight Research
 - Published in [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00610-y), featured in over 50 media outlets, including [Renmin News (China)](http://finance.people.com.cn/n1/2023/0227/c1004-32632458.html), [Xinhua News (China)](http://www.xinhuanet.com/info/20230315/f678f6e470b94971823223fdd66327d2/c.html), [Tsinghua University](https://www.tsinghua.edu.cn/info/1182/102099.htm), [AFP News(Japan)](https://www.afpbb.com/articles/-/3456295?act=all), [DeepAI](https://deepai.org/publication/long-tail-prediction-uncertainty-aware-trajectory-planning-for-self-driving-vehicles).
 - Dragomir Anguelov, Chief Scientist at Waymo (Google), listed this work as the first one in five representative solutions for the long-tail problem in autonomous driving.
 
+<div style="position: relative; padding-bottom: 55.83%; height: 0; overflow: hidden;">
+  <iframe src="https://player.bilibili.com/player.html?bvid=BV1CNR4YdEJR" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0" allowfullscreen>
+  </iframe>
+</div>
+
 ## 2. Developing Self-driving Cars for 2022 Beijing Winter Olympic Games
 - Achieveing open-road self-driving cars, which can navigate unseen conditions such as rain, snow, nighttime, and strange obstacles.
 - I am the on-board Tech Lead.
@@ -56,8 +63,8 @@ Highlight Research
 - Champion in Mcity Challenge, 2024.
 - Second Place in CARLA Challenge, 2019.
 
-<img src="images/framework.jpg" width="400"/>
-<img src="OptimizedLatticePlanner.gif" width="400"/>
+<img src="images/framework.png" width="400"/>
+<img src="images/OptimizedLatticePlanner.gif" width="400"/>
 
 # Contact
 ======
